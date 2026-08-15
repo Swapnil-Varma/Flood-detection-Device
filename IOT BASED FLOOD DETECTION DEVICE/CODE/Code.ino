@@ -1,5 +1,5 @@
-#define BLYNK_TEMPLATE_ID "TMPL3lbBH3wS7"
-#define BLYNK_TEMPLATE_NAME "esp 2"
+#define BLYNK_TEMPLATE_ID "TMPL3lbBH3wS7" // Enter your Template ID here
+#define BLYNK_TEMPLATE_NAME "esp 2" // Enter your Template Name here
 #define BLYNK_AUTH_TOKEN "YsE9uoDbRSzcLhJ6aT3v2s4uBPwkkA3e"
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
